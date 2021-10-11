@@ -1,0 +1,8 @@
+{
+  "java.checkstyle.configuration": ".vscode/google_checks.xml",
+  "java.format.settings.url": ".vscode/java-formatter.xml",
+  "[java]": {
+    "editor.detectIndentation": true
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

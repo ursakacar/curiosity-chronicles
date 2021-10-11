@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Exceptions Test Suite" duration-ms="9418" started-at="2021-08-31T16:11:03Z" finished-at="2021-08-31T16:11:12Z">
+    <groups>
+    </groups>
+    <test name="ExceptionsTests" duration-ms="9418" started-at="2021-08-31T16:11:03Z" finished-at="2021-08-31T16:11:12Z">
+      <class name="com.herokuapp.theinternet.ExceptionsTests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.herokuapp.theinternet.ExceptionsTests@646d64ab]" name="setUp" is-config="true" duration-ms="2038" started-at="2021-08-31T16:11:03Z" finished-at="2021-08-31T16:11:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="timeoutTest()[pri:0, instance:com.herokuapp.theinternet.ExceptionsTests@646d64ab]" name="timeoutTest" duration-ms="7253" started-at="2021-08-31T16:11:05Z" finished-at="2021-08-31T16:11:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeoutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.theinternet.ExceptionsTests@646d64ab]" name="tearDown" is-config="true" duration-ms="81" started-at="2021-08-31T16:11:12Z" finished-at="2021-08-31T16:11:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.theinternet.ExceptionsTests -->
+    </test> <!-- ExceptionsTests -->
+  </suite> <!-- Exceptions Test Suite -->
+</testng-results>
