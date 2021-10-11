@@ -1,0 +1,40 @@
+body {
+  font-family: 'Inter';
+  max-width: 1000px;
+  margin: auto;
+  background: #eaecfd;
+  opacity: 0.9;
+}
+
+div {
+  padding: 15px;
+}
+
+h1 {
+  padding: 30px;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+  font-size: 18px
+}
+
+button {
+  cursor: pointer;
+  padding: 5px 10px 5px 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 2px;
+  background-color: #504949;
+ }
+
+ input {
+   margin: 5px 10px 5px 5px;
+   border-radius: 5px;
+   font-size: 15px;
+ }
